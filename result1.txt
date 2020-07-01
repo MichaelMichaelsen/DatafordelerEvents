@@ -1,0 +1,83 @@
+Total antal events :  1434
+Vandloebsmidte     :  46
+0. Id: 1081715523
+1. Id: 1081751822
+2. Id: 1081751828
+3. Id: 1081754748
+4. Id: 1081754908
+5. Id: 1100828832
+6. Id: 1100829683
+7. Id: 1100829684
+8. Id: 1100829690
+9. Id: 1100829917
+10. Id: 1100830292
+11. Id: 1100854268
+12. Id: 1102747031
+13. Id: 1104293554
+14. Id: 1104293596
+15. Id: 1104296532
+16. Id: 1104296727
+17. Id: 1208890624
+18. Id: 1208891005
+19. Id: 1210801039
+20. Id: 1210801041
+21. Id: 1210801042
+22. Id: 1210801097
+23. Id: 1210801099
+24. Id: 1210801100
+25. Id: 1210801959
+26. Id: 1210802103
+27. Id: 1210802140
+28. Id: 1210802159
+29. Id: 1210802224
+30. Id: 1210802247
+31. Id: 1210802248
+32. Id: 1210802314
+33. Id: 1210802326
+34. Id: 1210802327
+35. Id: 1210802349
+36. Id: 1210802350
+37. Id: 1210802403
+38. Id: 1210802434
+39. Id: 1210802590
+40. Id: 1210802854
+41. Id: 1210803003
+42. Id: 1210803007
+43. Id: 1210803008
+44. Id: 1210803089
+45. Id: 1210803090
+https://services.datafordeler.dk/GeoDanmarkVektor/GeoDanmark60_NOHIST_GML3/1.0.0/WFS?username=ONCVAXSNFU&password=Nuga10s..&service=WFS&version=2.0.0&request=GetFeature&typenames=gdk60:Vandloebsmidte&namespaces=xmlns(gdk60,http://data.gov.dk/schemas/geodanmark60/2/gml3),xmlns(gml,http://www.opengis.net/gml/3.2),xmlns(fes,http://www.opengis.net/fes/2.0)&filter=<fes:Filter><fes:And><fes:PropertyIsEqualTo><fes:ValueReference>gdk60:id.namespace</fes:ValueReference><fes:Literal>http://data.gov.dk/geodanmark</fes:Literal></fes:PropertyIsEqualTo><fes:PropertyIsEqualTo><fes:ValueReference>gdk60:id.lokalId</fes:ValueReference><fes:Literal>1210801039</fes:Literal></fes:PropertyIsEqualTo><fes:PropertyIsNull><fes:ValueReference>gdk60:registreringTil</fes:ValueReference></fes:PropertyIsNull></fes:And></fes:Filter>
+<?xml version="1.0" encoding="UTF-8"?><!-- Created by GO Publisher. Snowflake Software Ltd. (http://www.snowflakesoftware.com). --><wfs:FeatureCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:gdk60="http://data.gov.dk/schemas/geodanmark60/2/gml3" xmlns:gml="http://www.opengis.net/gml/3.2" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:gss="http://www.isotc211.org/2005/gss" xmlns:gts="http://www.isotc211.org/2005/gts" xmlns:gsr="http://www.isotc211.org/2005/gsr" xmlns:wfs="http://www.opengis.net/wfs/2.0" xmlns:ows="http://www.opengis.net/ows/1.1" xmlns:fes="http://www.opengis.net/fes/2.0" xsi:schemaLocation="http://data.gov.dk/schemas/geodanmark60/2/gml3 http://schemas.datafordeler.dk/schemas/1.0.0/GeoDanmark60_NOHIST_GML3/20170920.v2.0.geodanmark60_gml3.xsd http://www.opengis.net/wfs/2.0 http://schemas.opengis.net/wfs/2.0/wfs.xsd" numberReturned="1" numberMatched="1" timeStamp="2020-06-25T14:04:42">
+<wfs:member>
+<gdk60:Vandloebsmidte gml:id="gdk60.1210801039">
+<gdk60:id.namespace>http://data.gov.dk/geodanmark</gdk60:id.namespace>
+<gdk60:id.lokalId>1210801039</gdk60:id.lokalId>
+<gdk60:status>Anlagt</gdk60:status>
+<gdk60:geometristatus>Endelig</gdk60:geometristatus>
+<gdk60:registreringsspecifikation>GeoDanmark Spec 6.0</gdk60:registreringsspecifikation>
+<gdk60:dataansvar>Ikke tildelt</gdk60:dataansvar>
+<gdk60:forretningshaendelse>Nyt objekt</gdk60:forretningshaendelse>
+<gdk60:forretningsomraade>1</gdk60:forretningsomraade>
+<gdk60:registreringsaktoer>MASON</gdk60:registreringsaktoer>
+<gdk60:registreringFra>2020-06-25T08:02:16.336000+02:00</gdk60:registreringFra>
+<gdk60:virkningsaktoer>Hillerød kommune</gdk60:virkningsaktoer>
+<gdk60:virkningFra>2017-01-23T09:56:03.000000+01:00</gdk60:virkningFra>
+<gdk60:planNoejagtighed>0.20</gdk60:planNoejagtighed>
+<gdk60:planStedfaestelsesmetode>Fotogrammetri</gdk60:planStedfaestelsesmetode>
+<gdk60:vertikalNoejagtighed>0.30</gdk60:vertikalNoejagtighed>
+<gdk60:vertikalStedfaestelsesmetode>Fotogrammetri</gdk60:vertikalStedfaestelsesmetode>
+<gdk60:applikation>Ikke tildelt</gdk60:applikation>
+<gdk60:vandloebstype>Almindelig</gdk60:vandloebstype>
+<gdk60:faldretning>Samme</gdk60:faldretning>
+<gdk60:netvaerk>true</gdk60:netvaerk>
+<gdk60:midtebredde>0-2.5</gdk60:midtebredde>
+<gdk60:synligVandloebsmidte>true</gdk60:synligVandloebsmidte>
+<gdk60:geometri>
+<gml:LineString srsName="urn:ogc:def:crs:EPSG::25832" gml:id="LOCAL_ID_0">
+<gml:posList srsDimension="3" count="5">706226.22 6199561.82 25.39 706224.97 6199559.31 25.82 706212.07 6199545.28 25.39 706192.72 6199525.02 25.42 706181.08 6199514.68 25.2</gml:posList>
+</gml:LineString>
+</gdk60:geometri>
+</gdk60:Vandloebsmidte>
+</wfs:member>
+</wfs:FeatureCollection>
+
