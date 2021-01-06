@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "axios": "^0.19.2"
+    "axios": "^0.21.1"
   },
   "dependencies": {
     "csv-parser": "^2.3.3",
